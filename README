@@ -1,0 +1,7 @@
+from https://www.imooc.com/video/15098
+
+quartz三大要素:job,trigger,scheduler
+在理解了三大要素工作方式的基础上,可以进一步深入学习quartz.
+
+与spring的集成的两种方式,详见dispatcher-servlet.xml
+
